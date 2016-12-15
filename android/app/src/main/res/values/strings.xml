@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RemoteTemp</string>
+    <string name="gauge_value">%1$s°C</string>
+    <string name="gauge_init_value">0°C</string>
+    <string name="updated_at">Updated at %1$s</string>
+    <string name="refresh">R</string>
+</resources>
